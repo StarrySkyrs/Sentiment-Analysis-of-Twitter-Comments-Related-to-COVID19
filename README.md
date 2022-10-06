@@ -1,4 +1,4 @@
-# CSCI-4152
+# Sentiment Analysis on Twitter comments related to Covid-19
 Dalhousie CSCI 4152
 
 ## Team members:
